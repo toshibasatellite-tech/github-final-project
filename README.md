@@ -1,4 +1,4 @@
-# Simple Interest Calculator
+# Simple Interest Kalkulator
 
 A simple Python program that calculates the simple interest on a sum of money.
 
